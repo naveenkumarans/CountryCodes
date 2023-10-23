@@ -4,4 +4,4 @@ This repository provides a comprehensive list of country codes used for making i
 
 ## Usage
 
-You can utilize the `codes.json` file to access the list of country codes programmatically. The structure of the JSON data is as follows:
+You can utilize the `codes.json` file to access the list of country codes programmatically.
